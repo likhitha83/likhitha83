@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hello💫:
 I am a dedicated Computer Science and Engineering (CSE) student with a passion for software development. Currently, I am focused on learning the MERN stack (MongoDB, Express.js, React, Node.js) to build dynamic web applications. I enjoy exploring new technologies and am eager to apply my skills to real-world projects.<br>
 
 
